@@ -1,6 +1,6 @@
 # Data Analysis Examples
 
-From Wes McKinney's Data Analysis for Python textbook, I attempted some of the project exercises. In the above Juptyer notebook there are EDA's for several datasets:
+From Wes McKinney's Python for Data Analysis textbook, I attempted some of the project exercises. In the above Juptyer notebook there are EDA's for several datasets:
 
 * Bitly .gov dataset
 
